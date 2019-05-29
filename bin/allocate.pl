@@ -23,7 +23,7 @@ use List::Util qw(shuffle);
 my $updates      = 1; # 0 for no updates 
 
 # distribute unassigned at the end?
-my $distributeUnassigned = 1;
+my $distributeUnassigned = 0;
 
 # Define file names for input 
 my $studentsFN   = "../input/students.txt";
