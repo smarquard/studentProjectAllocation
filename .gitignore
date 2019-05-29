@@ -1,1 +1,4 @@
 bin/runinfo.txt
+output/*.txt
+input/students.txt
+input/projects.txt
